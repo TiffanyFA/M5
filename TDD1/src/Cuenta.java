@@ -5,6 +5,7 @@
  * @version 18/11/19
  *
  */
+//Ruta on es troba el javadoc
 //C:\Program Files\Java\jdk1.8.0_91\bin
 public class Cuenta {
 	private double saldo;
